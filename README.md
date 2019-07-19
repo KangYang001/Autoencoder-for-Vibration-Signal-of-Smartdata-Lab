@@ -1,2 +1,2 @@
-# Autoencoder-for-Vibration-Signal-of-Smartdata-Lab
-code for processing vibration signal measured by SmartData lab
+# Autoencoder_Vibration_Signal
+apply autoencoder to compress vibration signal
